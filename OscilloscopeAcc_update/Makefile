@@ -1,0 +1,5 @@
+COMPONENT=OscilloscopeAppC
+DEFAULT_LOCAL_GROUP=0x44
+include $(MAKERULES)
+
+
